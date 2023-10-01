@@ -57,7 +57,7 @@ export default function App() {
         <h1>Weather App</h1>
         {form}
         <small>
-          <a href="" alt="">Open-source code</a> by Moleboheng Molatuli
+          <a href="https://github.com/Molebu/react-weather-app" alt="">Open-source code</a> by Moleboheng Molatuli
         </small>
       </div>
       
